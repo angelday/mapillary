@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mapillary/static/css/main.01ae0d24.chunk.css",
-    "main.js": "/mapillary/static/js/main.44e6ae5b.chunk.js",
-    "main.js.map": "/mapillary/static/js/main.44e6ae5b.chunk.js.map",
+    "main.js": "/mapillary/static/js/main.cf4329c4.chunk.js",
+    "main.js.map": "/mapillary/static/js/main.cf4329c4.chunk.js.map",
     "runtime-main.js": "/mapillary/static/js/runtime-main.7c228276.js",
     "runtime-main.js.map": "/mapillary/static/js/runtime-main.7c228276.js.map",
     "static/js/2.facf22a1.chunk.js": "/mapillary/static/js/2.facf22a1.chunk.js",
     "static/js/2.facf22a1.chunk.js.map": "/mapillary/static/js/2.facf22a1.chunk.js.map",
     "index.html": "/mapillary/index.html",
-    "precache-manifest.59a954ac4aa34ffea3afe4d611956712.js": "/mapillary/precache-manifest.59a954ac4aa34ffea3afe4d611956712.js",
+    "precache-manifest.39054e3e5146a6b50f84ace8fd97135d.js": "/mapillary/precache-manifest.39054e3e5146a6b50f84ace8fd97135d.js",
     "service-worker.js": "/mapillary/service-worker.js",
     "static/css/main.01ae0d24.chunk.css.map": "/mapillary/static/css/main.01ae0d24.chunk.css.map",
     "static/js/2.facf22a1.chunk.js.LICENSE": "/mapillary/static/js/2.facf22a1.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7c228276.js",
     "static/js/2.facf22a1.chunk.js",
     "static/css/main.01ae0d24.chunk.css",
-    "static/js/main.44e6ae5b.chunk.js"
+    "static/js/main.cf4329c4.chunk.js"
   ]
 }

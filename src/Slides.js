@@ -62,52 +62,52 @@ const SLIDES = [
   {
     top: '831,675',
     bottom: 'Berlin, Germany',
-    image: require('./images/berlin.gif')
+    image: '/images/berlin.gif',
   },
   {
     top: '839,035',
     bottom: 'Bucharest, Romania',
-    image: require('./images/bucharest.gif')
+    image: '/images/bucharest.gif',
   },
   {
     top: '489,681',
     bottom: 'Chiang Mai, Thailand',
-    image: require('./images/chiang-mai.gif')
+    image: '/images/chiang-mai.gif',
   },
   {
     top: '445,784',
     bottom: 'Gothenburg, Sweden',
-    image: require('./images/gothenburg.gif'),
+    image: '/images/gothenburg.gif',
   },
   {
     top: '1,330,849',
     bottom: 'Helsinki, Finland',
-    image: require('./images/helsinki.gif'),
+    image: '/images/helsinki.gif',
   },
   {
     top: '9,047,858',
     bottom: 'Kyiv, Ukraine',
-    image: require('./images/kyiv.gif'),
+    image: '/images/kyiv.gif',
   },
   {
     top: '4,125,217',
     bottom: 'Nashville, United States',
-    image: require('./images/nashville.gif'),
+    image: '/images/nashville.gif',
   },
   {
     top: '657,670',
     bottom: 'Ottawa, Canada',
-    image: require('./images/ottawa.gif'),
+    image: '/images/ottawa.gif',
   },
   {
     top: '2,209,973',
     bottom: 'São Paulo, Brazil',
-    image: require('./images/sao-paulo.gif'),
+    image: '/images/sao-paulo.gif',
   },
   {
     top: '141,304',
     bottom: 'Tulle, France',
-    image: require('./images/tulle.gif'),
+    image: '/images/tulle.gif',
   },
 ];
 

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mapillary/precache-manifest.39054e3e5146a6b50f84ace8fd97135d.js"
+  "/mapillary/precache-manifest.a07835ce2c29c492013ac862a9838b0e.js"
 );
 
 self.addEventListener('message', (event) => {

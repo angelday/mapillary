@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f48dcbaa7ebc4b09764c5dfbce5e27f",
+    "revision": "41d3086dd53a2479f7aa44f89bf1ace4",
     "url": "/mapillary/index.html"
   },
   {
-    "revision": "c6e26062b907e51b159b",
+    "revision": "e461ae9259eac2862c33",
     "url": "/mapillary/static/css/main.01ae0d24.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mapillary/static/js/2.facf22a1.chunk.js.LICENSE"
   },
   {
-    "revision": "c6e26062b907e51b159b",
-    "url": "/mapillary/static/js/main.cf4329c4.chunk.js"
+    "revision": "e461ae9259eac2862c33",
+    "url": "/mapillary/static/js/main.e1fe49c5.chunk.js"
   },
   {
     "revision": "8d16c5d6b95f0ffd9744",

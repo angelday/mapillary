@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Confetti from 'react-dom-confetti';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 import { VideoContainer } from './Components';
 
@@ -44,10 +44,6 @@ const Message = styled(motion.div)`
   text-align: center;
   line-height: 1.4;
 `;
-
-function lerp(a, b, t) {
-  return a * (1 - t) + b * t;
-}
 
 const dateOptions = {
   year: 'numeric',

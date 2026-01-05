@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import Confetti from 'react-dom-confetti';
 import { motion, AnimatePresence } from 'framer-motion';
 
 import { VideoContainer } from './Components';

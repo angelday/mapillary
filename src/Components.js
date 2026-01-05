@@ -13,16 +13,17 @@ const VideoContainer = styled.div`
   align-items: center;
 `;
 
-export const BackButton = styled.button`
+export const BackButton = styled.div`
   position: absolute;
   top: 20px;
   left: 20px;
   z-index: 100;
-  color: #000;
+  color: #05cb63;
   cursor: pointer;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
   font-size: 32px;
+  background: none;
 `;
 
 const Heading = styled.div`

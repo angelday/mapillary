@@ -10,7 +10,6 @@ const MenuContainer = styled.div`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #fff;
   gap: 20px;
 `;
 
